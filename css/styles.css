@@ -1,3 +1,6 @@
+body{
+	font-family: sans-serif;
+}
 header{
 	background-image: url("../css/landing.jpg");
 	color: #F15A29;
@@ -39,4 +42,32 @@ footer{
 .sidebar{
 	text-align: center;
 	font-size: 20px;
+}
+.breakfast{
+	position: absolute;
+	 top: 50%;
+	 left: 50%;
+}
+.lunch{
+	position: absolute;
+	 top: 50%;
+	 left: 50%;
+}
+.dinner{
+	position: absolute;
+	 top: 50%;
+	 left: 50%;
+	     transform: translate(-50%, -50%);
+}
+#row{
+	position: absolute;
+	background-color: white;
+	top: 25%;
+	left: 25%;
+}
+#row{
+	position: absolute;
+	background-color: #F15A29;
+	top: 25%;
+	left: 25%;
 }
