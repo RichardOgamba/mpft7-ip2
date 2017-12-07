@@ -35,7 +35,6 @@ footer{
 	width: 50%;
 }
 .column2{
-
 	float: left;
 	width: 50%
 }
@@ -59,15 +58,31 @@ footer{
 	 left: 50%;
 	     transform: translate(-50%, -50%);
 }
-#row{
-	position: absolute;
-	background-color: white;
-	top: 25%;
-	left: 25%;
+#row1{
+	top: 50%;
+	left:50%;
+	padding: 0;
+	text-align: center;
 }
-#row{
+#row2{
 	position: absolute;
+	padding: 0;
+}
+.happy #row1{
+	height: 50%;
+	width: 100%;
+	padding: 30px;
+	background-color: white;
+}
+.happy #row2{
+	height: 50%;
+	width: 100%;
 	background-color: #F15A29;
-	top: 25%;
-	left: 25%;
+}
+.happy #row1 h3{
+	text-align: center;
+}
+.happy #row2 h3{
+	text-align: center;
+	margin-top: 30px;
 }
