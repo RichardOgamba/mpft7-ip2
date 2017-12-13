@@ -2,7 +2,7 @@ body{
 	font-family: sans-serif;
 }
 
-header{
+#intro{
 	background-image: url("../css/landing.jpg");
 	color: #F15A29;
 	color: white;
