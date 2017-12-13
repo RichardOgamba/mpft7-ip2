@@ -78,6 +78,26 @@ background-color: #F15A29;
 	 left: 50%;
 	     transform: translate(-50%, -50%);
 }
-.form{
+#foods{
+      background-image: url("/home/richard/Documents/mpft-ip/img/backgrounds/foodsBg.jpg");
+      background-size: cover;
+      padding:200px;
+      background-position: center;
+
+    margin: ;
+      height:700px;
+    }
+    #food2{
+      bbackground-color: lightgrey;
+    padding : 0px;
+    margin:0px;
+    background-color: white;
+
+  }
+#subscribe{
 	background-image: url(../img/backgrounds/subscribe.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding:40px;
+	margin:10px;
 }
